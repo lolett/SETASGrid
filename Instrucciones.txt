@@ -1,0 +1,43 @@
+Blog de setas:
+
+Estructura de las secciones para el blog:
+
+
+
+    Sección 1: Encabezado
+
+        Contendrá el título del blog: "El Rincón de las Setas".
+
+        Una breve descripción: "Tu lugar para aprender sobre setas, recolección y rutas increíbles."
+
+        Un logo o imagen representativa de setas.
+
+
+
+    Sección 2: Contenido principal
+
+        Incluirá una introducción sobre la importancia de la recolección responsable.
+
+        Un artículo destacado sobre los tipos de setas comestibles y venenosas.
+
+
+
+    Sección 3: Tipos de setas
+
+        Una lista con imágenes pequeñas y nombres de setas populares (por ejemplo: Níscalo, Champiñón, Amanita muscaria).
+
+        Enlaces a artículos o páginas internas con más información.
+
+
+
+    Sección 4: Lugares recomendados
+
+        Breves descripciones de zonas ideales para la recolección de setas según la temporada.
+
+        Un pequeño mapa (puede ser una imagen de ejemplo).
+
+
+
+    Sección 5: Pie de página
+
+        Información de contacto.
